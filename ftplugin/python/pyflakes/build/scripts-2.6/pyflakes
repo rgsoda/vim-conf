@@ -1,0 +1,4 @@
+#!/Users/adam/dev/_virtualenvs/django-smsbroker/bin/python
+
+from pyflakes.scripts.pyflakes import main
+main()
