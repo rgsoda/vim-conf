@@ -20,8 +20,8 @@ set fileformats=unix
 set ff=unix
 
 set backup
-set backupdir=/private/tmp
-set dir=/private/tmp
+set backupdir=/tmp
+set dir=/tmp
 
 set novisualbell
 set scrolloff=5
